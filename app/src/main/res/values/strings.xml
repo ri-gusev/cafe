@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name" translatable="false">Cafe</string>
+    <string name="inputName_hint">Имя пользователя</string>
+    <string name="inputPassword_hint">Ваш пароль</string>
+    <string name="Enter_button">Войти</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="greetings">Привет, %s, что выберите?</string>
+    <string name="coffee">Кофе</string>
+    <string name="tea">Чай</string>
+    <string name="Additives">Что добавить в ваш %s?</string>
+    <string name="Sugar">Сахар</string>
+    <string name="Lemon">Лимон</string>
+    <string name="Milk">Молоко</string>
+    <string name="ChooseDrink">Выберите тип напитка</string>
+    <string name="GreenTea">Зеленый</string>
+    <string name="BlackTea">Черный</string>
+    <string name="Latte">Латте</string>
+    <string name="Espresso">Эспрессо</string>
+    <string name="Americano">Американо</string>
+    <string name="Raf">Раф</string>
+    <string name="PlaceOrder">Сделать заказ</string>
+    <string name="name_label">Имя:</string>
+    <string name="additives_label">Добавки:</string>
+    <string name="drink_label">Напиток:</string>
+    <string name="typeOfDrink_label">Тип напитка:</string>
+    <string name="error_fields_empty">Пожалуйста заполните все поля!</string>
+
+
+    <string-array name="types_of_tea">
+        <item>@string/GreenTea</item>
+        <item>@string/BlackTea</item>
+    </string-array>
+
+    <string-array name="types_of_coffee">
+        <item>@string/Latte</item>
+        <item>@string/Espresso</item>
+        <item>@string/Americano</item>
+        <item>@string/Raf</item>
+    </string-array>
+
+</resources>

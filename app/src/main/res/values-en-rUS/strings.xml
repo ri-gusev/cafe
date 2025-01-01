@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cafe</string>
+    <string name="inputName_hint">User name</string>
+    <string name="inputPassword_hint">Your password</string>
+    <string name="Enter_button">Enter</string>
+    <string name="welcome">Welcome!</string>
+    <string name="greetings">Hello, %s, what would you like to buy?</string>
+    <string name="coffee">Coffee</string>
+    <string name="tea">Tea</string>
+    <string name="Additives">What should we add to your %s?</string>
+    <string name="Milk">Milk</string>
+    <string name="Lemon">Lemon</string>
+    <string name="Sugar">Sugar</string>
+    <string name="ChooseDrink">Choose type of drink</string>
+    <string name="GreenTea">Green</string>
+    <string name="BlackTea">Black</string>
+    <string name="Latte">Latte</string>
+    <string name="Espresso">Espresso</string>
+    <string name="Americano">Americano</string>
+    <string name="Raf">Raf</string>
+    <string name="PlaceOrder">Place an order</string>
+    <string name="name_label">Name:</string>
+    <string name="additives_label">Additives:</string>
+    <string name="drink_label">Drink:</string>
+    <string name="typeOfDrink_label">Type of drink:</string>
+    <string name="error_fields_empty">Please complete all the required fields.</string>
+</resources>
